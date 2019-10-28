@@ -1,0 +1,25 @@
+#abt{
+    text-align: center;
+    color: brown;
+    background: darkgrey;
+}
+
+#cta{
+    text-align: center;
+    color: chocolate;
+    
+}
+
+#wlc{
+    text-align: center;
+    color: darkblue;
+    
+}
+
+.hdr{
+    text-align: center;
+}
+
+*{
+background-color: lightslategrey;
+}
